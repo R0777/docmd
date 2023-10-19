@@ -40,3 +40,6 @@ You can apply formatting to text, such as **bold**, *italic*, or `inline code`.
 ```python
 def hello_world():
     print("Hello, World!")
+
+    ## Image
+![Alt Text](https://2.bp.blogspot.com/-PtF8xVYEEBw/WlSCmI7JvPI/AAAAAAAAAR8/sEfMn1b2juY79vpUqTTiQTU04rkCoVADQCLcBGAs/s320/Code-Background.jpg)
