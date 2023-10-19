@@ -27,6 +27,9 @@ You can apply formatting to text, such as **bold**, *italic*, or `inline code`.
 
 [OpenAI](https://www.openai.com) is an example of a link.
 
+## Image
+![Alt Text](https://2.bp.blogspot.com/-PtF8xVYEEBw/WlSCmI7JvPI/AAAAAAAAAR8/sEfMn1b2juY79vpUqTTiQTU04rkCoVADQCLcBGAs/s320/Code-Background.jpg)
+
 ### Images
 
 ![Markdown Logo](https://d33wubrfki0l68.cloudfront.net/e80db90374ff17319c85b907ba55cf4b1b3df9b3/4569b/assets/images/markdown-logo.svg)
@@ -41,5 +44,3 @@ You can apply formatting to text, such as **bold**, *italic*, or `inline code`.
 def hello_world():
     print("Hello, World!")
 
-    ## Image
-![Alt Text](https://2.bp.blogspot.com/-PtF8xVYEEBw/WlSCmI7JvPI/AAAAAAAAAR8/sEfMn1b2juY79vpUqTTiQTU04rkCoVADQCLcBGAs/s320/Code-Background.jpg)
