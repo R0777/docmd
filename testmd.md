@@ -18,6 +18,7 @@ You can create headers using one or more hashtags. For example, this is an H2 he
 1. First item
 2. Second item
 3. Third item
+4. Third item
 
 ### Text Formatting
 
